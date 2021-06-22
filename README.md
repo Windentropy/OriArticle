@@ -3,9 +3,9 @@
 [![Open Issues](https://img.shields.io/github/issues/Windentropy/OriArticle?logo=github)](https://github.com/Windentropy/OriArticle/issues) [![Closed Issues](https://img.shields.io/github/issues-closed/Windentropy/OriArticle?logo=github)](https://github.com/Windentropy/OriArticle/issues?q=is%3Aissue+is%3Aclosed) [![Open PR](https://img.shields.io/github/issues-pr/Windentropy/OriArticle?logo=github)](https://github.com/Windentropy/OriArticle/pulls) [![Closed PR](https://img.shields.io/github/issues-pr-closed/Windentropy/OriArticle?logo=github)](https://github.com/Windentropy/OriArticle/pulls?q=is%3Apr+is%3Aclosed)  
 [![Watchers](https://img.shields.io/github/watchers/Windentropy/OriArticle?style=social)](https://github.com/Windentropy/OriArticle/watchers) [![Stars](https://img.shields.io/github/stars/Windentropy/OriArticle?style=social)](https://github.com/Windentropy/OriArticle/stargazers) [![Forks](https://img.shields.io/github/forks/Windentropy/OriArticle?style=social)](https://github.com/Windentropy/OriArticle/network/members)  
 
-## 我们永远铭记
-## 在他的光芒之下
-## 这片土地得以存续
+> <font size=5>我们永远铭记  
+在他的光芒之下  
+这片土地得以存续</font>
 
 # 介绍  
 > 这里是 [![奥日与黑暗森林吧](https://img.shields.io/badge/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7-%E5%A5%A5%E6%97%A5%E4%B8%8E%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E5%90%A7-3388ff.svg?style=plastic&logo=baidu)](https://tieba.baidu.com/f?kw=%E5%A5%A5%E6%97%A5%E4%B8%8E%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97) 的Ori相关同人衍生品集合中心，本吧[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-322462822-eb1923.svg?style=plastic&logo=tencentqq)](https://jq.qq.com/?_wv=1027&k=0p9alHEK)，本仓库由本吧 [![奥日与黑暗森林吧](https://img.shields.io/badge/%E5%89%8D%E5%B0%8F%E5%90%A7%E4%B8%BB-Lasair%F0%9F%8C%80-aee880.svg?style=plastic)](https://tieba.baidu.com/home/main/?un=GankinGwenn) 创建，~~大水笔~~ [![奥日与黑暗森林吧](https://img.shields.io/badge/%E5%90%A7%E5%8F%8B-%E9%A3%8E%E4%B9%B1%F0%9F%8C%B2-00BFFF.svg?style=plastic)](https://tieba.baidu.com/home/main/?un=yyf_1996)维护，在 [![Github](https://img.shields.io/badge/-Github-24292e.svg?style=plastic&logo=github)](https://github.com/Windentropy/OriArticle) 更新。您可以使用<kbd>Ctrl</kbd>+<kbd>D</kbd>收藏此页面。  
