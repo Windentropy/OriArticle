@@ -54,7 +54,7 @@
 | [🍀叶小羊](https://tieba.baidu.com/home/main?un=%E8%AF%B8%E6%9C%88%E6%97%A0%E6%80%9D%E6%80%80) | [尼博尔实录](https://github.com/Windentropy/OriArticle/blob/master/%E5%8F%B6%E5%B0%8F%E7%BE%8A/%E5%B0%BC%E5%8D%9A%E5%B0%94%E5%AE%9E%E5%BD%95.md) | 此文未曾发表  | 2019年12月18日 |  
 | [🌀烈金°🌀](https://tieba.baidu.com/home/main?un=%E8%A3%82%E9%87%91%E9%93%B6%E6%B2%B3) | [奥里的冒险](https://github.com/Windentropy/OriArticle/blob/master/%E7%83%88%E9%87%91/%E5%A5%A5%E9%87%8C%E7%9A%84%E5%86%92%E9%99%A9.md) | [奥里的冒险](https://tieba.baidu.com/p/6607979022) | 2020年6月6日 | 
 | [殇秦月](https://tieba.baidu.com/home/main?un=%E6%AE%87%E7%A7%A6%E6%9C%88) | [此去，我将与你重生](https://github.com/Windentropy/OriArticle/blob/master/%E6%AE%87%E7%A7%A6%E6%9C%88/%E6%AD%A4%E5%8E%BB%EF%BC%8C%E6%88%91%E5%B0%86%E4%B8%8E%E4%BD%A0%E9%87%8D%E7%94%9F.md) | 原贴已被删除 | 2020年11月17日 |  
-
+| [Lasair🌀](https://tieba.baidu.com/home/main?un=nphws) | 原仓库已删除 | 原贴已被删除 | 2021年2月9日 | 
 
 # 同人画作目录  
 | 作者 | 仓库链接 |  
@@ -64,8 +64,8 @@
 # 主要维护人员
 | 作者 | 开始维护日期  | 终止维护日期 | 
 | :----: | :----:  | :----: | 
-| Lasair🌀 | 2020年8月1日 | 2021年2月9日 |  
-| 风乱🌲 | 2021年6月23日 | 尚未终止 |  
+| [Lasair🌀](https://tieba.baidu.com/home/main?un=nphws) | 2020年8月1日 | 2021年2月9日 |  
+| [风乱🌲](https://tieba.baidu.com/home/main?un=yyf_1996) | 2021年6月23日 | 尚未终止 |  
  
 
 # 许可证  
