@@ -27,7 +27,8 @@
 
     本表以更文时间倒序排序  
 | 作者 | 仓库链接 | 原文链接 | 上次更文日期 |  
-| :----: | :----:  | :----: | :----: |  
+| :----: | :----:  | :----: | :----: |   
+| [天海居士🌊](https://tieba.baidu.com/home/main?un=&ie=utf-8&id=tb.1.2db01aac.3StrlLeMo6IrxRYcwO-ijw?t=1624002043&fr=pb) | 尚未收录 |  [关于天海居士打不过纯粹容器回尼博尔种桃子那些事（暂名）](https://tieba.baidu.com/p/7389273898) | 2021年6月23日 | 
 | [xiaoxu433](https://tieba.baidu.com/home/main?un=xiaoxu433) | 尚未收录 |  [精灵之志](https://tieba.baidu.com/p/7240022202) | 2021年6月21日 |   
 | [单声唱片◎](https://tieba.baidu.com/home/main?un=&ie=utf-8&id=tb.1.2c953467.-vCbfWR8N7GKlpPSeeeX4w?t=1587269383&fr=pb) | [灵树下的茶话会](https://github.com/Windentropy/OriArticle/blob/master/mono/%E7%81%B5%E6%A0%91%E4%B8%8B%E7%9A%84%E8%8C%B6%E8%AF%9D%E4%BC%9A.md) | [灵树下的茶话会](https://tieba.baidu.com/p/7225235381) | 2021年6月20日 |  
 | [🔥镜鳞蓝儿🔥](https://tieba.baidu.com/home/main?un=%E9%AD%82s%E9%82%AA%E7%81%AC%E9%BE%99%E7%A5%9E) | [光—影，尼文—尼博尔](https://github.com/Windentropy/OriArticle/blob/master/%E9%95%9C%E9%B3%9E%E8%93%9D%E5%84%BF/%E5%85%89%E2%80%94%E5%BD%B1%EF%BC%8C%E5%B0%BC%E6%96%87%E2%80%94%E5%B0%BC%E5%8D%9A%E5%B0%94.md) | [光—影，尼文—尼博尔](https://tieba.baidu.com/p/6917053109) | 2021年6月19日 |  
