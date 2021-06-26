@@ -6,7 +6,7 @@ i = 1;
 while( i <= length(text))
     if text(i) == 13
         if flag == 0
-            flag = 1;
+            %flag = 1;
             output = output + " ";
             output = output + " ";
             output = output + text(i);
